@@ -1,0 +1,20 @@
+// component styles are encapsulated and only applied to their components
+
+* {
+  color: white;
+}
+
+#tempDetailsContainer {
+  background-color: white;
+  border-radius: 3px;
+
+}
+
+.row {
+  background-color: grey;
+  border-radius: 3px;
+  border-width: 1px;
+  border-color: #c4c4c4;
+  border-style: solid;
+  margin:5px;
+}
